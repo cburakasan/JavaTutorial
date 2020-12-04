@@ -39,6 +39,7 @@ public class Devekusu extends KanatliHayvanlar {
     }
 
     public static void basiniGomer(){
+
         System.out.println("Butun devekuşlari baslarini kuma gomerler");
     }
 
